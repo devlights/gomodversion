@@ -1,5 +1,5 @@
 package gomodversion
 
 func Hello() string {
-	return "hellO"
+	return "helLO"
 }
